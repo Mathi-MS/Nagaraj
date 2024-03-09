@@ -666,7 +666,7 @@ section#contact .submit:hover{
 .socialmedia {
     position: fixed;
     right: 50px;
-    bottom: 50px;
+    bottom: 50%;
     height: 46px;
     width: 46px;
     cursor: pointer;
